@@ -1,0 +1,11 @@
+numpy>=1.24
+pandas>=1.5
+scikit-learn>=1.2
+shap>=0.42.1
+lime>=0.2.0.1
+matplotlib>=3.6
+plotly>=5.13
+streamlit>=1.25
+pytest>=7.3
+joblib
+
